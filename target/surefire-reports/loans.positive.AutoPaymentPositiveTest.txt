@@ -1,0 +1,4 @@
+-------------------------------------------------------------------------------
+Test set: loans.positive.AutoPaymentPositiveTest
+-------------------------------------------------------------------------------
+Tests run: 1, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 28.448 s - in loans.positive.AutoPaymentPositiveTest

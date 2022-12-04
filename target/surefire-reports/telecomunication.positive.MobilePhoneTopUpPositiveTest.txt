@@ -1,0 +1,4 @@
+-------------------------------------------------------------------------------
+Test set: telecomunication.positive.MobilePhoneTopUpPositiveTest
+-------------------------------------------------------------------------------
+Tests run: 2, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 43.438 s - in telecomunication.positive.MobilePhoneTopUpPositiveTest

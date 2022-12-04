@@ -1,0 +1,9 @@
+pages\loans\AutoPaymentPage.class
+common\CommonAction.class
+constants\Constant$Urls.class
+constants\Constant.class
+pages\telecomunication\MobilePhoneTopUpPage.class
+pages\base\BasePage.class
+constants\Constant$MobileTopUpTestData.class
+common\Config.class
+constants\Constant$TimeoutVariables.class

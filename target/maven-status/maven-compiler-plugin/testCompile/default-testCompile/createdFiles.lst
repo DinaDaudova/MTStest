@@ -1,0 +1,4 @@
+base\BaseTest.class
+telecomunication\positive\MobilePhoneTopUpPositiveTest.class
+loans\positive\AutoPaymentPositiveTest.class
+base\Listener.class
